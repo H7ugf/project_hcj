@@ -46,8 +46,8 @@ A simple calculator web application built with HTML, CSS, and JavaScript. This p
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/simple-calculator.git
-cd simple-calculator
+git clone https://github.com/H7ugf/project_hcj.git
+cd Calculator
 ```
 
 2. **Open the application**
@@ -81,8 +81,8 @@ Simply open the `index.html` file in your web browser.
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/simple-calculator.git
-cd simple-calculator
+git clone https://github.com/H7ugf/project_hcj.git
+cd Calculator
 ```
 
 2. **فتح التطبيق**
@@ -92,7 +92,7 @@ cd simple-calculator
 
 ## 👨‍💻 Developer
 - **Name**: م محمد علي حزام
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **GitHub**:https://github.com/H7ugf/project_hcj.git
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
