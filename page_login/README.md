@@ -46,8 +46,8 @@ A clean and responsive login page built with HTML and CSS that provides a modern
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/login-page.git
-cd login-page
+git clone https://github.com/H7ugf/project_hcj.git
+cd page_login
 ```
 
 2. **Open the project**
@@ -90,8 +90,8 @@ login-page/
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/login-page.git
-cd login-page
+git clone https://github.com/H7ugf/project_hcj.git
+cd page_login
 ```
 
 2. **فتح المشروع**
