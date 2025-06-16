@@ -54,7 +54,7 @@ A modern and responsive hospital website built with HTML, CSS, JavaScript, and B
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/hospital-website.git
+git clone https://github.com/H7ugf/project_hcj.git
 cd hospital-website
 ```
 
@@ -96,7 +96,7 @@ Simply open the `index.html` file in your web browser.
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/hospital-website.git
+git clone https://github.com/H7ugf/project_hcj.git
 cd hospital-website
 ```
 
