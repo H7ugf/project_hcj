@@ -50,8 +50,8 @@ A modern and responsive Todo List application built with HTML, CSS, and JavaScri
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/H7ugf/project_hcj.git
-cd CSS Todo List
+[git clone https://github.com/H7ugf/project_hcj.git
+cd CSS-Todo-List
 ```
 
 2. **Open the application**
@@ -89,8 +89,8 @@ Simply open the `index.html` file in your web browser.
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/css-todo-list.git
-cd css-todo-list
+git clone https://github.com/H7ugf/project_hcj.git
+cd CSS-Todo-List
 ```
 
 2. **فتح التطبيق**
