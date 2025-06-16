@@ -51,8 +51,8 @@ A modern and responsive personal portfolio website built with HTML, CSS, and Jav
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/personal-portfolio.git
-cd personal-portfolio
+git clone https://github.com/H7ugf/project_hcj.git
+cd personal_portfolio
 ```
 
 2. **Open the application**
@@ -91,8 +91,8 @@ Simply open the `index.html` file in your web browser.
 ### التثبيت
 1. **استنساخ المستودع**
 ```bash
-git clone https://github.com/yourusername/personal-portfolio.git
-cd personal-portfolio
+git clone https://github.com/H7ugf/project_hcj.git
+cd personal_portfolio
 ```
 
 2. **فتح التطبيق**
