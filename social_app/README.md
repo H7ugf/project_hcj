@@ -104,3 +104,8 @@ cd social_app
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
+
+
+<div>
+  <img src="assets/Screenshot 2025-07-04 141652.png"/>
+</div>
